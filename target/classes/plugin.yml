@@ -1,0 +1,4 @@
+name: CyanuriGames
+version: '1.0-SNAPSHOT'
+main: cyanurigames.core.Main
+api-version: '1.20'
