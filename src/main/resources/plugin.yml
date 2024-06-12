@@ -1,0 +1,4 @@
+name: CyanuriGames
+version: '${project.version}'
+main: cyanurigames.core.Main
+api-version: '1.20'
