@@ -1,4 +1,12 @@
 name: CyanuriGames
 version: '${project.version}'
-main: cyanurigames.core.Main
+main: cyanurigames.Main
 api-version: '1.20'
+
+commands:
+    cyanurigames:
+        description: CyanuriGames command
+        aliases:
+        - cg
+        permission: cyanurigames.command
+        permission-message: You don't have permission to use this command
